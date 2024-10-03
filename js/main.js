@@ -334,7 +334,7 @@
 	// 11. Theme Settings Js
 
 	// settings append in body
-	function tp_settings_append($x){
+	/*function tp_settings_append($x){
 		var settings = $('body');
 		let dark;
 		$x == true ? dark = 'd-block' : dark = 'd-none';
@@ -430,8 +430,8 @@
 		</div>
 	 </div>`;
 	 settings.append(settings_html);
-	}
-	tp_settings_append(false); // if want to enable dark light mode then send "true";
+	}*/
+	tp_settings_append(true); // if want to enable dark light mode then send "true";
 
 	// settings open btn
 	$(".tp-theme-settings-open-btn").on("click", function () {
