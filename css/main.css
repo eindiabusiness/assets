@@ -7927,7 +7927,7 @@ body .ui-tooltip {
 }
 .tp-category-menu-btn::after {
   position: absolute;
-  content: "\f107";
+  content: "\f078";
   right: 30px;
   top: 50%;
   -webkit-transform: translateY(-50%);
