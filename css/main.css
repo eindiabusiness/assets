@@ -7099,7 +7099,6 @@ body .ui-tooltip {
   color: var(--tp-common-black);
   font-family: var(--tp-ff-fontawesome);
   font-weight: 900;
-  font-weight: 400;
   margin-left: 5px;
   display: inline-block;
 }
