@@ -7936,7 +7936,8 @@ body .ui-tooltip {
   -ms-transform: translateY(-50%);
   -o-transform: translateY(-50%);
   transform: translateY(-50%);
-  font-family: var(--tp-ff-fontawesome);
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
 }
 .tp-category-menu-btn span {
   margin-right: 8px;
