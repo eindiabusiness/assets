@@ -7986,6 +7986,7 @@ body .ui-tooltip {
   right: 0;
   top: 50%;
   font-family: var(--tp-ff-fontawesome);
+  font-weight: 900;
   font-size: 16px;
   -webkit-transform: translateY(-50%);
   -moz-transform: translateY(-50%);
