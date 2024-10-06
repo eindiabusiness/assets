@@ -190,6 +190,7 @@ li,
 
 .tp-collection-countdown .tp-product-countdown ul li:not(:last-child)::after, .tp-category-mobile-menu ul li.has-dropdown > a .dropdown-toggle-btn, .tp-main-menu-mobile ul li.has-dropdown > a .dropdown-toggle-btn, .tp-header-side-menu ul li.has-dropdown > a::after, .offcanvas__categoryssss ul li.has-dropdown > a .dropdown-toggle-btn, .tp-offcanvas-category-toggle::after {
   font-family: var(--tp-ff-fontawesome);
+	  font-weight: 900;
 }
 
 /* transform */
@@ -1050,7 +1051,7 @@ div.demo img {
 .tp-theme-color-btn::before {
   position: absolute;
   content: "\f00c";
-  font-weight: 600;
+  font-weight: 900;
   font-family: var(--tp-ff-fontawesome);
   color: var(--tp-common-white);
   font-size: 16px;
@@ -7097,6 +7098,7 @@ body .ui-tooltip {
   font-size: 14px;
   color: var(--tp-common-black);
   font-family: var(--tp-ff-fontawesome);
+  font-weight: 900;
   font-weight: 400;
   margin-left: 5px;
   display: inline-block;
@@ -7135,6 +7137,7 @@ body .ui-tooltip {
   font-size: 14px;
   color: var(--tp-common-black);
   font-family: var(--tp-ff-fontawesome);
+  font-weight: 900;
   font-weight: 400;
   margin-left: 5px;
   display: inline-block;
